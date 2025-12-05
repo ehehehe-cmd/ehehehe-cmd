@@ -29,8 +29,8 @@ Ben teknolojiye tutkulu bir Bilgisayar Bilimleri öğrencisiyim. Makinelere gün
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehehehe-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehehehe-cmd&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehehehe-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehehehe-cmd&layout=compact&theme=tokyonight&cache_seconds=86400"/>
   </a>
 </div>
 
