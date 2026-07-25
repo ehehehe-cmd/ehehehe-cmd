@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bilgisayar+Bilimleri+%C3%B6%C4%9Frencisiyim;A%C3%A7%C4%B1k+kaynak+projelerle+u%C4%9Fra%C5%9F%C4%B1yorum;Yapay+Zeka+%26+Bulut+Teknolojileri+%C3%B6%C4%9Freniyorum&font=Fira%20Code&center=true&width=440&height=40&duration=3000&pause=1000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bilgisayar+Bilimleri+%C3%B6%C4%9Frencisiyim;A%C3%A7%C4%B1k+kaynak+projeler+%C3%BCretiyorum;Yapay+Zeka+%26+Bulut+ile+ilgileniyorum&font=Fira+Code&center=true&width=520&height=40&duration=3000&pause=1000"/>
 </div>
 
 <br/>
@@ -32,8 +32,7 @@ Ben teknolojiye tutkulu bir Bilgisayar Bilimleri öğrencisiyim. Makinelere gün
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img height="165em" src="https://raw.githubusercontent.com/ehehehe-cmd/ehehehe-cmd/main/generated/overview.svg"/>
-  <img height="165em" src="https://raw.githubusercontent.com/ehehehe-cmd/ehehehe-cmd/main/generated/languages.svg"/>
+  <img src="https://raw.githubusercontent.com/ehehehe-cmd/ehehehe-cmd/main/github-metrics.svg"/>
 </div>
 
 <br/>
