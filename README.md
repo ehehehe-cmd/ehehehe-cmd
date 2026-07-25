@@ -1,19 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Merhaba,%20Ben%20Enes%20Yazırlıoğlu!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Yazılım%20Geliştirici%20&%20Teknoloji%20Meraklısı&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Merhaba,%20Ben%20Enes%20Yazırlıoğlu!&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Yazılım%20Geliştirici%20&%20Teknoloji%20Meraklısı&descAlignY=51&descAlign=62" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bilgisayar+Bilimleri+%C3%B6%C4%9Frencisiyim;A%C3%A7%C4%B1k+kaynak+projelerle+u%C4%9Fra%C5%9F%C4%B1yorum;Yapay+Zeka+%26+Bulut+Teknolojileri+%C3%B6%C4%9Freniyorum&font=Fira%20Code&center=true&width=440&height=40&duration=3000&pause=1000"/>
 </div>
 
 <br/>
 
-### 👋 Hakkımda
+## 👋 Hakkımda
 
 Ben teknolojiye tutkulu bir Bilgisayar Bilimleri öğrencisiyim. Makinelere günlük hayat problemlerini nasıl çözeceğini öğretmeyi severim.
 
-- 🔭 Şu an kendi çapımda **açık kaynaklı projeler** üzerinde çalışıyorum.
-- 🌱 Kendimi **Yapay Zeka ve Bulut Teknolojileri** alanında geliştiriyorum.
-- 👯 **Takım çalışmasına** ve yeni iş birliklerine açığım.
----
+- 🔭 Şu an kendi çapımda **açık kaynaklı projeler** üzerinde çalışıyorum
+- 🌱 Kendimi **Yapay Zeka ve Bulut Teknolojileri** alanında geliştiriyorum
+- 👯 **Takım çalışmasına** ve yeni iş birliklerine açığım
+- 📫 Bana **ergunenesyazirlioglu@gmail.com** adresinden ulaşabilirsiniz
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
+<br/>
+
+## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -23,18 +29,30 @@ Ben teknolojiye tutkulu bir Bilgisayar Bilimleri öğrencisiyim. Makinelere gün
 
 <br/>
 
----
-
-### 📊 GitHub İstatistiklerim
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehehehe-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehehehe-cmd&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-  </a>
+  <img height="165em" src="https://raw.githubusercontent.com/ehehehe-cmd/ehehehe-cmd/main/generated/overview.svg"/>
+  <img height="165em" src="https://raw.githubusercontent.com/ehehehe-cmd/ehehehe-cmd/main/generated/languages.svg"/>
 </div>
 
 <br/>
+
+## 🏆 Trophy'ler
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ehehehe-cmd&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehehehe-cmd&label=Profil%20Ziyaretçisi&color=7c3aed&style=flat" alt="profile views"/>
+</div>
+
+<br/>
+
+## 📫 İletişim
 
 <div align="center">
   <a href="https://linkedin.com/in/ergün-enes-yazırlıoğlu-282829292" target="_blank">
@@ -43,4 +61,10 @@ Ben teknolojiye tutkulu bir Bilgisayar Bilimleri öğrencisiyim. Makinelere gün
   <a href="mailto:ergunenesyazirlioglu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
