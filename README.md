@@ -37,19 +37,6 @@ Ben teknolojiye tutkulu bir Bilgisayar Bilimleri öğrencisiyim. Makinelere gün
 
 <br/>
 
-## 🏆 Trophy'ler
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ehehehe-cmd&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehehehe-cmd&label=Profil%20Ziyaretçisi&color=7c3aed&style=flat" alt="profile views"/>
-</div>
-
-<br/>
 
 ## 📫 İletişim
 
