@@ -32,10 +32,13 @@ Ben teknolojiye tutkulu bir Bilgisayar Bilimleri öğrencisiyim. Makinelere gün
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ehehehe-cmd/ehehehe-cmd/main/github-metrics.svg"/>
+  <img height="180" src="https://github-readme-stats-ehehehe1.vercel.app/api?username=ehehehe-cmd&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged_percentage&hide_border=true&bg_color=0d1117&title_color=58e0c9&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180" src="https://github-readme-stats-ehehehe1.vercel.app/api/top-langs/?username=ehehehe-cmd&layout=compact&hide_border=true&bg_color=0d1117&title_color=58e0c9&text_color=c9d1d9&langs_count=8"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehehehe-cmd&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58e0c9&currStreakLabel=58e0c9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681"/>
+</div>
 
 
 ## 📫 İletişim
